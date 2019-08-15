@@ -1,2 +1,0 @@
-# background-generator
-git - github
